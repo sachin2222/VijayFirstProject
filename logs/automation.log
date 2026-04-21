@@ -1,0 +1,174 @@
+2026-04-15 20:53:59 INFO  Hooks - Chrome Browser Intialsed
+2026-04-15 20:54:02 INFO  LoginSteps - User Navigated to Base URL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-15 20:54:03 INFO  LoginPage - User enters Email tr90wq@eample.com
+2026-04-15 20:54:03 INFO  LoginPage - User enters Password Password@123
+2026-04-15 20:54:04 INFO  LoginPage - User Clicks Login Button
+2026-04-15 20:54:06 INFO  Hooks - Browser Exited
+2026-04-15 20:54:09 INFO  Hooks - Chrome Browser Intialsed
+2026-04-15 20:54:15 INFO  LoginSteps - User Navigated to Base URL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-15 20:54:16 INFO  LoginPage - User enters Email vijay@gmail.com
+2026-04-15 20:54:16 INFO  LoginPage - User enters Password Test@1234
+2026-04-15 20:54:17 INFO  LoginPage - User Clicks Login Button
+2026-04-15 20:54:18 INFO  Hooks - Browser Exited
+2026-04-15 20:54:20 INFO  Hooks - Chrome Browser Intialsed
+2026-04-15 20:54:30 INFO  LoginSteps - User Navigated to Base URL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-15 20:54:31 INFO  LoginPage - User enters Email sachin@master.com
+2026-04-15 20:54:31 INFO  LoginPage - User enters Password Test@1234
+2026-04-15 20:54:32 INFO  LoginPage - User Clicks Login Button
+2026-04-15 20:54:34 INFO  Hooks - Browser Exited
+2026-04-19 12:03:21 INFO  Hooks - Chrome Browser Intialsed
+2026-04-19 12:03:25 INFO  LoginSteps - User Navigated to Base URL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-19 12:03:26 INFO  LoginPage - User enters Email tr90wq@eample.com
+2026-04-19 12:03:26 INFO  LoginPage - User enters Password Password@123
+2026-04-19 12:03:27 INFO  LoginPage - User Clicks Login Button
+2026-04-19 12:03:29 INFO  Hooks - Browser Exited
+2026-04-19 12:03:32 INFO  Hooks - Chrome Browser Intialsed
+2026-04-19 12:03:36 INFO  LoginSteps - User Navigated to Base URL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-19 12:03:37 INFO  LoginPage - User enters Email vijay@gmail.com
+2026-04-19 12:03:37 INFO  LoginPage - User enters Password Test@1234
+2026-04-19 12:03:38 INFO  LoginPage - User Clicks Login Button
+2026-04-19 12:03:41 INFO  Hooks - Browser Exited
+2026-04-19 12:03:43 INFO  Hooks - Chrome Browser Intialsed
+2026-04-19 12:03:44 INFO  LoginSteps - User Navigated to Base URL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-19 12:03:44 INFO  LoginPage - User enters Email sachin@master.com
+2026-04-19 12:03:45 INFO  LoginPage - User enters Password Test@1234
+2026-04-19 12:03:45 INFO  LoginPage - User Clicks Login Button
+2026-04-19 12:03:47 INFO  Hooks - Browser Exited
+2026-04-19 12:04:33 INFO  Hooks - Chrome Browser Intialsed
+2026-04-19 12:04:36 INFO  LoginSteps - User Navigated to Base URL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-19 12:04:37 INFO  LoginPage - User enters Email tr90wq@eample.com
+2026-04-19 12:04:37 INFO  LoginPage - User enters Password Password@123
+2026-04-19 12:04:38 INFO  LoginPage - User Clicks Login Button
+2026-04-19 12:04:43 INFO  Hooks - Browser Exited
+2026-04-19 12:04:56 INFO  Hooks - Chrome Browser Intialsed
+2026-04-19 12:04:59 INFO  LoginSteps - User Navigated to Base URL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-19 12:05:00 INFO  LoginPage - User enters Email vijay@gmail.com
+2026-04-19 12:05:00 INFO  LoginPage - User enters Password Test@1234
+2026-04-19 12:05:01 INFO  LoginPage - User Clicks Login Button
+2026-04-19 12:05:06 INFO  Hooks - Browser Exited
+2026-04-19 12:05:15 INFO  Hooks - Chrome Browser Intialsed
+2026-04-19 12:05:18 INFO  LoginSteps - User Navigated to Base URL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-19 12:05:19 INFO  LoginPage - User enters Email sachin@master.com
+2026-04-19 12:05:20 INFO  LoginPage - User enters Password Test@1234
+2026-04-19 12:05:21 INFO  LoginPage - User Clicks Login Button
+2026-04-19 12:05:26 INFO  Hooks - Browser Exited
+2026-04-19 12:06:40 INFO  Hooks - Chrome Browser Intialsed
+2026-04-19 12:06:53 INFO  Hooks - Browser Exited
+2026-04-19 12:07:07 INFO  Hooks - Chrome Browser Intialsed
+2026-04-19 12:07:15 INFO  Hooks - Browser Exited
+2026-04-19 12:07:29 INFO  Hooks - Chrome Browser Intialsed
+2026-04-19 12:07:36 INFO  Hooks - Browser Exited
+2026-04-20 20:10:35 INFO  Hooks - Chrome Browser Intialsed
+2026-04-20 20:10:45 INFO  Hooks - Browser Exited
+2026-04-20 20:10:53 INFO  Hooks - Chrome Browser Intialsed
+2026-04-20 20:11:04 INFO  Hooks - Browser Exited
+2026-04-20 20:11:21 INFO  Hooks - Chrome Browser Intialsed
+2026-04-20 20:11:31 INFO  Hooks - Browser Exited
+2026-04-20 20:12:12 INFO  Hooks - Chrome Browser Intialsed
+2026-04-20 20:12:16 INFO  LoginSteps - User Navigated to Base URL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-20 20:12:16 INFO  LoginPage - User enters Email tr90wq@eample.com
+2026-04-20 20:12:17 INFO  LoginPage - User enters Password Password@123
+2026-04-20 20:12:17 INFO  LoginPage - User Clicks Login Button
+2026-04-20 20:12:20 INFO  Hooks - Browser Exited
+2026-04-20 20:12:23 INFO  Hooks - Chrome Browser Intialsed
+2026-04-20 20:12:25 INFO  LoginSteps - User Navigated to Base URL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-20 20:12:25 INFO  LoginPage - User enters Email vijay@gmail.com
+2026-04-20 20:12:26 INFO  LoginPage - User enters Password Test@1234
+2026-04-20 20:12:26 INFO  LoginPage - User Clicks Login Button
+2026-04-20 20:12:28 INFO  Hooks - Browser Exited
+2026-04-20 20:12:31 INFO  Hooks - Chrome Browser Intialsed
+2026-04-20 20:12:33 INFO  LoginSteps - User Navigated to Base URL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-20 20:12:33 INFO  LoginPage - User enters Email sachin@master.com
+2026-04-20 20:12:33 INFO  LoginPage - User enters Password Test@1234
+2026-04-20 20:12:34 INFO  LoginPage - User Clicks Login Button
+2026-04-20 20:12:37 INFO  Hooks - Browser Exited
+2026-04-20 20:17:24 INFO  Hooks - Chrome Browser Intialsed
+2026-04-20 20:17:26 INFO  LoginSteps - User Navigated to Base URL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-20 20:17:27 INFO  LoginPage - User enters Email tr90wq@eample.com
+2026-04-20 20:17:27 INFO  LoginPage - User enters Password Password@123
+2026-04-20 20:17:28 INFO  LoginPage - User Clicks Login Button
+2026-04-20 20:17:30 INFO  Hooks - Browser Exited
+2026-04-20 20:17:33 INFO  Hooks - Chrome Browser Intialsed
+2026-04-20 20:17:37 INFO  LoginSteps - User Navigated to Base URL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-20 20:17:37 INFO  LoginPage - User enters Email vijay@gmail.com
+2026-04-20 20:17:37 INFO  LoginPage - User enters Password Test@1234
+2026-04-20 20:17:38 INFO  LoginPage - User Clicks Login Button
+2026-04-20 20:17:40 INFO  Hooks - Browser Exited
+2026-04-20 20:17:43 INFO  Hooks - Chrome Browser Intialsed
+2026-04-20 20:17:46 INFO  LoginSteps - User Navigated to Base URL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-20 20:17:47 INFO  LoginPage - User enters Email sachin@master.com
+2026-04-20 20:17:47 INFO  LoginPage - User enters Password Test@1234
+2026-04-20 20:17:48 INFO  LoginPage - User Clicks Login Button
+2026-04-20 20:17:50 INFO  Hooks - Browser Exited
+2026-04-20 20:19:07 INFO  Hooks - Chrome Browser Intialsed
+2026-04-20 20:19:11 INFO  LoginSteps - User Navigated to Base URL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-20 20:19:11 INFO  LoginPage - User enters Email tr90wq@eample.com
+2026-04-20 20:19:11 INFO  LoginPage - User enters Password Password@123
+2026-04-20 20:19:12 INFO  LoginPage - User Clicks Login Button
+2026-04-20 20:19:14 INFO  Hooks - Browser Exited
+2026-04-20 20:19:17 INFO  Hooks - Chrome Browser Intialsed
+2026-04-20 20:19:20 INFO  LoginSteps - User Navigated to Base URL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-20 20:19:20 INFO  LoginPage - User enters Email vijay@gmail.com
+2026-04-20 20:19:20 INFO  LoginPage - User enters Password Test@1234
+2026-04-20 20:19:21 INFO  LoginPage - User Clicks Login Button
+2026-04-20 20:19:24 INFO  Hooks - Browser Exited
+2026-04-20 20:19:27 INFO  Hooks - Chrome Browser Intialsed
+2026-04-20 20:19:29 INFO  LoginSteps - User Navigated to Base URL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-20 20:19:29 INFO  LoginPage - User enters Email sachin@master.com
+2026-04-20 20:19:30 INFO  LoginPage - User enters Password Test@1234
+2026-04-20 20:19:31 INFO  LoginPage - User Clicks Login Button
+2026-04-20 20:19:33 INFO  Hooks - Browser Exited
+2026-04-20 20:33:25 INFO  Hooks - Chrome Browser Intialsed
+2026-04-20 20:33:28 INFO  LoginSteps - User Navigated to Base URL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-20 20:33:28 INFO  LoginPage - User enters Email tr90wq@eample.com
+2026-04-20 20:33:29 INFO  LoginPage - User enters Password Password@123
+2026-04-20 20:33:29 INFO  LoginPage - User Clicks Login Button
+2026-04-20 20:33:32 INFO  Hooks - Browser Exited
+2026-04-20 20:33:35 INFO  Hooks - Chrome Browser Intialsed
+2026-04-20 20:33:41 INFO  LoginSteps - User Navigated to Base URL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-20 20:33:42 INFO  LoginPage - User enters Email vijay@gmail.com
+2026-04-20 20:33:42 INFO  LoginPage - User enters Password Test@1234
+2026-04-20 20:33:43 INFO  LoginPage - User Clicks Login Button
+2026-04-20 20:33:46 INFO  Hooks - Browser Exited
+2026-04-20 20:33:49 INFO  Hooks - Chrome Browser Intialsed
+2026-04-20 20:33:51 INFO  LoginSteps - User Navigated to Base URL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-20 20:33:52 INFO  LoginPage - User enters Email sachin@master.com
+2026-04-20 20:33:52 INFO  LoginPage - User enters Password Test@1234
+2026-04-20 20:33:53 INFO  LoginPage - User Clicks Login Button
+2026-04-20 20:33:55 INFO  Hooks - Browser Exited
+2026-04-20 20:38:19 INFO  Hooks - Chrome Browser Intialsed
+2026-04-20 20:38:23 INFO  LoginSteps - User Navigated to Base URL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-20 20:38:23 INFO  LoginPage - User enters Email tr90wq@eample.com
+2026-04-20 20:38:23 INFO  LoginPage - User enters Password Password@123
+2026-04-20 20:38:24 INFO  LoginPage - User Clicks Login Button
+2026-04-20 20:38:26 INFO  Hooks - Browser Exited
+2026-04-20 20:38:29 INFO  Hooks - Chrome Browser Intialsed
+2026-04-20 20:38:32 INFO  LoginSteps - User Navigated to Base URL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-20 20:38:33 INFO  LoginPage - User enters Email vijay@gmail.com
+2026-04-20 20:38:33 INFO  LoginPage - User enters Password Test@1234
+2026-04-20 20:38:34 INFO  LoginPage - User Clicks Login Button
+2026-04-20 20:38:36 INFO  Hooks - Browser Exited
+2026-04-20 20:38:38 INFO  Hooks - Chrome Browser Intialsed
+2026-04-20 20:38:42 INFO  LoginSteps - User Navigated to Base URL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-20 20:38:42 INFO  LoginPage - User enters Email sachin@master.com
+2026-04-20 20:38:43 INFO  LoginPage - User enters Password Test@1234
+2026-04-20 20:38:43 INFO  LoginPage - User Clicks Login Button
+2026-04-20 20:38:45 INFO  Hooks - Browser Exited
+2026-04-21 20:11:48 INFO  Hooks - Chrome Browser Intialsed
+2026-04-21 20:11:56 INFO  LoginSteps - User Navigated to Base URL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-21 20:11:57 INFO  LoginPage - User enters Email tr90wq@eample.com
+2026-04-21 20:11:57 INFO  LoginPage - User enters Password Password@123
+2026-04-21 20:11:58 INFO  LoginPage - User Clicks Login Button
+2026-04-21 20:12:00 INFO  Hooks - Browser Exited
+2026-04-21 20:12:04 INFO  Hooks - Chrome Browser Intialsed
+2026-04-21 20:12:09 INFO  LoginSteps - User Navigated to Base URL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-21 20:12:11 INFO  LoginPage - User enters Email vijay@gmail.com
+2026-04-21 20:12:11 INFO  LoginPage - User enters Password Test@1234
+2026-04-21 20:12:11 INFO  LoginPage - User Clicks Login Button
+2026-04-21 20:12:13 INFO  Hooks - Browser Exited
+2026-04-21 20:12:16 INFO  Hooks - Chrome Browser Intialsed
+2026-04-21 20:12:18 INFO  LoginSteps - User Navigated to Base URL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-21 20:12:19 INFO  LoginPage - User enters Email sachin@master.com
+2026-04-21 20:12:19 INFO  LoginPage - User enters Password Test@1234
+2026-04-21 20:12:21 INFO  LoginPage - User Clicks Login Button
+2026-04-21 20:12:24 INFO  Hooks - Browser Exited
